@@ -20,20 +20,20 @@
   </a>
 </p>
 
-## About me
+## 💬 About me
 - 🔭 I’m currently working on projects : tryharding & improving to become a better version of myself
 - 🌱 I’m currently learning <b>Python, Java</b> essentially
 - 😄 Pronouns: My friends call me <i>Willy</i> or simply <i>William</i>
 - 💗 My hobbies : Video games (mostly Rocket League) & Computer science (Artificial Intelligence, Big Data)
 - ⚡ Fun fact: Single.
 
-## Top languages used
+## 💻 Top languages used
 <p>
   <a target="_blank" rel="noopenernoreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbeeh&theme=blue-green">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbeeh&theme=blue-green" alt="Akbe's Top languages used" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbeeh&theme=blue-green&amp;locale=en" style="max-width:100%;">
   </a>
 
-### Github stats
+### 📈 Github stats
 <p>
   <a target="_blank" rel="noopenernoreferrer" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=akbeeh&show_icons=true&theme=radical" alt="Akbe's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=akbeeh&show_icons=true&theme=radical&amp;locale=en" style="max-width:100%;">
