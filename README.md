@@ -1,5 +1,5 @@
-<h1>Hi there 👋 I'm William !</h1>
-### I'm a French engineering student in computer science at [INSA Rouen Normandy](https://www.insa-rouen.fr/en). I'm aiming at improving my skills. I'll commit little by little my student and personnal projects.
+# Hi there 👋 I'm William !
+### I'm a French engineering student in computer science at [INSA Rouen Normandy](https://www.insa-rouen.fr/en). I'm aiming at improving my skills. I'll commit little by little my student and personnal projects. Open to discussion !
 
 ## 📫 Social networks
 <p>
