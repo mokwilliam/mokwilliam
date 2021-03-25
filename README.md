@@ -3,7 +3,7 @@
 
 ## 📫 Social networks
 <p>
-  <a target="_blank" rel="noopenernoreferrer" href="www.linkedin.com/in/mokwilliam/">
+  <a target="_blank" rel="noopenernoreferrer" href="https://www.linkedin.com/in/mokwilliam/">
     <img src="https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mokwilliam/" alt="Akbe's linkedin" />
   </a>
   <a target="_blank" rel="noopenernoreferrer" href="mailto:Akbeeeh@gmail.com">
