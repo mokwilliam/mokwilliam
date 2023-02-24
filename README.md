@@ -1,5 +1,5 @@
 # 👋 Hi there I'm William !
-### I'm a French engineering student in computer science at [INSA Rouen Normandy](https://www.insa-rouen.fr/en). I'm aiming at improving my skills. I'll commit little by little my student and personnal projects. Open to discussion !
+### I'm a French engineering student in computer science at [INSA Rouen Normandy](https://www.insa-rouen.fr/en). I'm aiming at improving my skills. I'll commit little by little my student and personal projects. Open to discussion !
 
 ## 📫 Social networks
 <p>
@@ -8,9 +8,6 @@
   </a>
   <a target="_blank" rel="noopenernoreferrer" href="mailto:Akbeeeh@gmail.com">
     <img src="https://img.shields.io/badge/-Akbeeeh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Akbeeeh@gmail.com" alt="Akbe's mail" />
-  </a>
-  <a target="_blank" rel="noopenernoreferrer" href="https://twitter.com/Akbeeh">
-    <img src="https://img.shields.io/badge/Akbeeh-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Akbeeh" alt="Akbe's twitter" />
   </a>
   <a target="_blank" rel="noopenernoreferrer" href="https://discordapp.com/users/161544764825534464/">
     <img src="https://img.shields.io/badge/Akbeeh-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/161544764825534464/" alt="Akbe's discord" />
@@ -21,11 +18,11 @@
 </p>
 
 ## 💬 About me
-- 🔭 I’m currently working on projects : tryharding & improving to become a better version of myself
+- 🔭 I’m currently working on projects : tryharding & improving to achieve my project "H" (Work In Progress)
 - 🌱 I’m currently learning <b>Python, Java</b> essentially
 - 😄 Pronouns: My friends call me <i>Willy</i> or simply <i>William</i>
 - 💗 My hobbies : Video games (mostly Rocket League) & Computer science (Artificial Intelligence, Big Data)
-- ⚡ Fun fact: Single.
+- ⚡ Fun fact: H
 
 ## 💻 Top languages used
 <p>
