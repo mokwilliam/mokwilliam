@@ -18,7 +18,7 @@
 </p>
 
 ## 💬 About me
-- 🔭 I’m currently working on projects : tryharding & improving to achieve my project "H" (Work In Progress)
+- 🔭 I’m currently working on projects : tryharding & improving to make my project "H" a success (Work In Progress)
 - 🌱 I’m currently learning <b>Python, Java</b> essentially
 - 😄 Pronouns: My friends call me <i>Willy</i> or simply <i>William</i>
 - 💗 My hobbies : Video games (mostly Rocket League) & Computer science (Artificial Intelligence, Big Data)
