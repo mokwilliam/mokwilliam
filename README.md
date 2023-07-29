@@ -9,9 +9,6 @@
   <a target="_blank" rel="noopenernoreferrer" href="mailto:Akbeeeh@gmail.com">
     <img src="https://img.shields.io/badge/-Akbeeeh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Akbeeeh@gmail.com" alt="Akbe's mail" />
   </a>
-  <a target="_blank" rel="noopenernoreferrer" href="https://discordapp.com/users/161544764825534464/">
-    <img src="https://img.shields.io/badge/Akbeeh-7289DA?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/161544764825534464/" alt="Akbe's discord" />
-  </a>
   <a target="_blank" rel="noopenernoreferrer" href="https://github.com/Akbeeh/?tab=follow">
     <img src="https://img.shields.io/github/followers/Akbeeh?label=Follow&style=social" alt="Follow Github's Akbe" />
   </a>
