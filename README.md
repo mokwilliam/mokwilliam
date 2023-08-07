@@ -6,9 +6,6 @@
   <a target="_blank" rel="noopenernoreferrer" href="https://www.linkedin.com/in/mokwilliam/">
     <img src="https://img.shields.io/badge/-William-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mokwilliam/" alt="Akbe's linkedin" />
   </a>
-  <a target="_blank" rel="noopenernoreferrer" href="mailto:Akbeeeh@gmail.com">
-    <img src="https://img.shields.io/badge/-Akbeeeh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Akbeeeh@gmail.com" alt="Akbe's mail" />
-  </a>
   <a target="_blank" rel="noopenernoreferrer" href="https://github.com/Akbeeh/?tab=follow">
     <img src="https://img.shields.io/github/followers/Akbeeh?label=Follow&style=social" alt="Follow Github's Akbe" />
   </a>
