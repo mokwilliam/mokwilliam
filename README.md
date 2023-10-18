@@ -15,8 +15,7 @@
 - 🔭 I’m currently working on projects : tryharding & improving to make my project "H" a success (Work In Progress)
 - 🌱 I’m currently learning <b>Python, Docker and AWS</b>
 - 😄 Pronouns: My friends call me <i>Willy</i> or simply <i>William</i>
-- 💗 My hobbies : Video games (mostly Rocket League) & Computer science (Future data engineer 🤞)
-- ⚡ Fun fact: H
+- 💗 My hobbies : IT in general (Future data/cloud engineer 🤞)
 
 ## 💻 Top languages used
 <p>
