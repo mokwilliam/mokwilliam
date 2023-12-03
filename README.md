@@ -24,17 +24,20 @@ I'm a French student recently graduated as an IT engineer from [INSA Rouen Norma
 - 👨‍🍳 [Become a Head Chef](https://github.com/mokwilliam/become-a-head-chef) • A web app that offers users a unique culinary experience each day.
   - Time dedicated: 1 week
   - Stack: **Poetry**, **FastAPI**, **Beautiful Soup**, **Amazon DynamoDB**, **Vite with React**, **Airflow**
-- Other small projects lasting a few days using **Apache Airflow**, **Spark**, **Kafka**, **MySQL**, **CircleCI**...
+- 🏘️ [Urban Area Explorer](https://github.com/mokwilliam/urban-area-explorer/tree/dev-gui) • A dashboard application showing the quality of life in each urban area.
+  - Time dedicated: 1 week
+  - Stack: **Poetry**, **PyQt5**, **CircleCI**
+- Other small projects lasting a few days using **Apache Airflow**, **Spark**, **Kafka**, **MySQL**...
 
 ## 💻 Top languages used
 <p>
-  <a target="_blank" rel="noopenernoreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbeeh&theme=blue-green">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbeeh&theme=blue-green" alt="Akbe's Top languages used" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akbeeh&theme=blue-green&amp;locale=en" style="max-width:100%;">
+  <a target="_blank" rel="noopenernoreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=mokwilliam&theme=blue-green">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokwilliam&theme=blue-green" alt="William's Top languages used" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokwilliam&theme=blue-green&amp;locale=en" style="max-width:100%;">
   </a>
 
 ### 📈 Github stats
 <p>
   <a target="_blank" rel="noopenernoreferrer" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=akbeeh&show_icons=true&theme=radical" alt="Akbe's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=akbeeh&show_icons=true&theme=radical&amp;locale=en" style="max-width:100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=mokwilliam&show_icons=true&theme=radical" alt="William's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=mokwilliam&show_icons=true&theme=radical&amp;locale=en" style="max-width:100%;">
   </a>
 </p>
