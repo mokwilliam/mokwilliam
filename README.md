@@ -24,7 +24,7 @@ I'm a French student recently graduated as an IT engineer from [INSA Rouen Norma
 - 👨‍🍳 [Become a Head Chef](https://github.com/mokwilliam/become-a-head-chef) • A web app that offers users a unique culinary experience each day.
   - Time dedicated: 1 week
   - Stack: **Poetry**, **FastAPI**, **Beautiful Soup**, **Amazon DynamoDB**, **Vite with React**, **Airflow**
-- Other small projects lasting a few days using **Apache Airflow**, **Spark**, **Kafka**, **MySQL**...
+- Other small projects lasting a few days using **Apache Airflow**, **Spark**, **Kafka**, **MySQL**, **CircleCI**...
 
 ## 💻 Top languages used
 <p>
