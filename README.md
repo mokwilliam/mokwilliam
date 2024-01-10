@@ -27,6 +27,9 @@ I'm a French student recently graduated as an IT engineer from [INSA Rouen Norma
 - 🏘️ [Urban Area Explorer](https://github.com/mokwilliam/urban-area-explorer/tree/dev-gui) • A dashboard application showing the quality of life in each urban area.
   - Time dedicated: 1 week
   - Stack: **Poetry**, **PyQt5**, **CircleCI**
+- 🚗 [Vehicle Inventory Management System](https://github.com/mokwilliam/vehicle-inventory-management-system) • A vehicle inventory application giving information about cars.
+  - Time dedicated: 1 week
+  - Stack: **Java**, **Swing**, **FasterXML/Jackson**, **JUnit**, **Docker**
 - Other small projects lasting a few days using **Apache Airflow**, **Spark**, **Kafka**, **MySQL**...
 
 ## 💻 Top languages used
