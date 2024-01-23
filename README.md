@@ -9,6 +9,9 @@ I'm a French student recently graduated as an IT engineer from [INSA Rouen Norma
   <a target="_blank" rel="noopenernoreferrer" href="https://github.com/mokwilliam/?tab=follow">
     <img src="https://img.shields.io/github/followers/mokwilliam?label=Follow&style=social" alt="Follow Github's William" />
   </a>
+  <a target="_blank" rel="noopenernoreferrer" href="https://leetcode.com/mkwilliam/">
+    <img src="https://img.shields.io/badge/-William-gray?style=flat-square&logo=Leetcode&link=https://leetcode.com/mkwilliam/" alt="William's Leetcode" />
+  </a>
 </p>
 
 ## 💬 About me
