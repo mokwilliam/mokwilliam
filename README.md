@@ -33,6 +33,9 @@ I'm a French student recently graduated as an IT engineer from [INSA Rouen Norma
 - 🚗 [Vehicle Inventory Management System](https://github.com/mokwilliam/vehicle-inventory-management-system) • A vehicle inventory application giving information about cars.
   - Time dedicated: 1 week
   - Stack: **Java**, **Swing**, **FasterXML/Jackson**, **JUnit**, **Docker**
+- 🌍 [MemGlobe](https://github.com/mokwilliam/mem-globe) • A web app for managing a photo album with an interactive map view.
+  - Time dedicated: Currently working on it
+  - Stack: **Poetry**, **FastAPI**, **Pydantic**, **Streamlit**, **Folium**
 - Other small projects lasting a few days using **Apache Airflow**, **Spark**, **Kafka**, **MySQL**...
 
 ## 💻 Top languages used
